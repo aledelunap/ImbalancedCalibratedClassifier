@@ -1,1 +1,1 @@
-# ImbalancedCalibratedClassifier
+# Imbalanced Calibrated Classifier
